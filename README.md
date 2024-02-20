@@ -1,7 +1,6 @@
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f87af578-f38a-4c45-b3f1-8b8d92f51a98/3b060b89-6995-48b2-b1e5-d6d1ac25a933/Untitled.png)
 
 ## 💡 서비스 소개
-
+![Untitled (2)](https://github.com/Junikarp/lookatmein/assets/118621835/6d3d44a1-a785-4ff6-b967-083faa222e27)
 ---
 
 ## 손쉽게 상담부터 예약까지, 내 손 안에 성형서비스
@@ -25,16 +24,15 @@
 ### 🗓️ 개발 기간 : 2024.01.08 - 2024.02.16 (6주)
 
 ## 🛠️ 기술스택
-
+![Untitled (1)](https://github.com/Junikarp/lookatmein/assets/118621835/6a51a956-5a1b-4c77-bba9-5b6b93006e87)
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f87af578-f38a-4c45-b3f1-8b8d92f51a98/9643433e-d02f-4c34-b057-7f49a0bef347/Untitled.png)
 
 ## ⚙️ 아키텍처
+![Untitled](https://github.com/Junikarp/lookatmein/assets/118621835/44716b67-a708-43b9-a6b4-f991bc2534f8)
 
 ---
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f87af578-f38a-4c45-b3f1-8b8d92f51a98/d2a590f7-c657-4613-bdaf-4c1cf6ce79cc/Untitled.png)
 
 ### 버전 정보
 
