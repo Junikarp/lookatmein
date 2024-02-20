@@ -49,11 +49,13 @@
 
 - **찜하기 버튼을 통한 병원 즐겨찾기 등록** : 병원 상세 페이지에서 찜하기 하트 버튼을 통해 마이페이지에서 즐겨찾는 병원을 조회할 수 있습니다.
     
-    [병원 찜.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/f87af578-f38a-4c45-b3f1-8b8d92f51a98/7b8a069c-232e-49ee-a28c-eb6b52201126/%EB%B3%91%EC%9B%90_%EC%B0%9C.mp4)
+
+https://github.com/Junikarp/lookatmein/assets/118621835/2169f8aa-c935-4955-b30e-a7a4bb52b47a
+
     
 - **채팅을 통한 상담** : webRTC를 통한 채팅 기능으로 병원과 직접 대화를 할 수 있으며, 화상 상담 예약도 실시간으로 잡을 수 있습니다.
     
-    [채팅.mp4](https://prod-files-secure.s3.us-west-2.amazonaws.com/f87af578-f38a-4c45-b3f1-8b8d92f51a98/0bacfd28-9590-4baf-841b-53e22162cb8f/%EC%B1%84%ED%8C%85.mp4)
+
     
 - **비대면 성형 상담** : RTC 화상 상담 기능을 통해 어디서든 전문가와 상담할 수 있습니다. 집에서도, 카페에서도 상담이 가능합니다.
     
