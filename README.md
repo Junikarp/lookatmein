@@ -55,6 +55,7 @@ https://github.com/Junikarp/lookatmein/assets/118621835/2169f8aa-c935-4955-b30e-
     
 - **채팅을 통한 상담** : webRTC를 통한 채팅 기능으로 병원과 직접 대화를 할 수 있으며, 화상 상담 예약도 실시간으로 잡을 수 있습니다.
     
+![채팅 gif 1](https://github.com/Junikarp/lookatmein/assets/118621835/e5288b05-8ae3-495b-8951-018480c3ba5d)
 
     
 - **비대면 성형 상담** : RTC 화상 상담 기능을 통해 어디서든 전문가와 상담할 수 있습니다. 집에서도, 카페에서도 상담이 가능합니다.
